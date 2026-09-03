@@ -13,7 +13,6 @@ Built at **UTRAHacks**.
 - Voice interaction and spoken summaries
 - Daily calorie, protein, and activity goals
 - Optional MongoDB data persistence
-- Optional Solana wallet and achievement functionality
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +21,6 @@ Built at **UTRAHacks**.
 - **AI:** OpenRouter
 - **Voice:** ElevenLabs
 - **Database:** MongoDB, LocalStorage
-- **Web3:** Solana Web3.js
 
 ## 🧠 How It Works
 
@@ -57,10 +55,8 @@ See `.env.example` for configuration options, including:
 - `OPENROUTER_API_KEY`
 - `ELEVENLABS_API_KEY`
 - `MONGODB_URI`
-- `SOLANA_RPC_URL`
-- `SOLANA_MINT_KEYPAIR`
 - `PORT`
 
 ## 🏆 Project Context
 
-CalixOlympics was developed at **UTRAHacks** to explore how AI, computer vision, voice interaction, fitness tracking, and Web3 functionality can be combined into an interactive fitness coaching application.
+CalixOlympics was developed at **UTRAHacks** to explore how AI, computer vision, voice interaction and fitness tracking can be combined into an interactive fitness coaching application.
